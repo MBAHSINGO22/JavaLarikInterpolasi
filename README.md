@@ -1,7 +1,6 @@
-<h1 align="center">🧮 JavaLarikInterpolasi</h1>
+<h1 align="center">🧮 Java Larik Interpolasi</h1>
 <p align="center">
   <b>Manipulasi Larik dan Pencarian Interpolasi di Java</b><br>
-  <sub>Proyek edukatif dengan kelas larik, pengujian, dan algoritma pencarian efisien</sub>
 </p>
 
 <div align="center">
@@ -33,8 +32,7 @@
 JavaLarikInterpolasi/
 ├── Larik.java                  # Kelas array dengan metode sorting, pencarian, dsb
 ├── LarikMain.java              # Program utama untuk pengujian array
-├── PencarianInterpolasi.java  # Implementasi algoritma Interpolation Search
-└── README.md                   # Dokumentasi proyek
+└── PencarianInterpolasi.java  # Implementasi algoritma Interpolation Search
 ```
 
 ---
@@ -43,25 +41,6 @@ JavaLarikInterpolasi/
 
 - Java 17+
 - IDE (IntelliJ, NetBeans, Eclipse) atau terminal Java
-
----
-
-## 🚀 Cara Menjalankan
-
-1️⃣ **Kompilasi semua file Java**
-```bash
-javac Larik.java LarikMain.java PencarianInterpolasi.java
-```
-
-2️⃣ **Jalankan program utama larik**
-```bash
-java LarikMain
-```
-
-3️⃣ **(Opsional) Jalankan pencarian interpolasi secara terpisah**
-```bash
-java PencarianInterpolasi
-```
 
 ---
 
@@ -96,9 +75,3 @@ Mencari 30... Ditemukan pada indeks 2
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
-
----
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan edukasi dan pembelajaran algoritma pencarian di Java.
